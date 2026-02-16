@@ -1,0 +1,19 @@
+{
+  "name": "it23772922-lab04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LakniR23/IT23772922-Lab04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LakniR23/IT23772922-Lab04/issues"
+  },
+  "homepage": "https://github.com/LakniR23/IT23772922-Lab04#readme"
+}
